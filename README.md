@@ -22,11 +22,6 @@
 </h1>
 
 
-###  👋
-
-#### My Contacts:
-<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/9b344d06-aaff-42b4-9b1f-1fc095811d2b" width="15"> [Linkedin] 
-
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
