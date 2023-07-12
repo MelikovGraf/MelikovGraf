@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 #### My Contacts:
-![https://t.me/melikovgraf](https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa)
-<img src="![[drawing.jpg](https://t.me/melikovgraf)](https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa)" alt="drawing" width="200"/>
+![https://t.me/melikovgraf](https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa =100x20)
+
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
