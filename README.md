@@ -16,8 +16,13 @@
   <img src="https://komarev.com/ghpvc/?username=MelikovGraf&style=flat-square&color=blue" alt=""/>
 </div>
 
+<h1>
+  Hi there. My name is Graf
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-### Hi there. My name is Graf 👋
+
+###  👋
 
 #### My Contacts:
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/9b344d06-aaff-42b4-9b1f-1fc095811d2b" width="15"> [Linkedin] 
