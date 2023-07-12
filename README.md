@@ -8,7 +8,7 @@
 
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/1429592c-d6e4-44fd-983c-877562542b6b" width="15"> [Telegram](https://t.me/melikovgraf)   
 
-<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/9b344d06-aaff-42b4-9b1f-1fc095811d2b" width="15"> [Linkedin](https://www.linkedin.com/in/graf-melikov-a0192927b/) 
+<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/9b344d06-aaff-42b4-9b1f-1fc095811d2b" width="15"> [Linkedin] https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge(https://www.linkedin.com/in/graf-melikov-a0192927b/) 
 
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
