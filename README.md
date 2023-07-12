@@ -6,7 +6,15 @@
 
 #### My Contacts:
 
-<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/1429592c-d6e4-44fd-983c-877562542b6b" width="15"> [Telegram](https://t.me/melikovgraf)   
+<div id="badges">
+  <a href="https://www.linkedin.com/in/graf-melikov-a0192927b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/melikovgraf">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+  
 
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/9b344d06-aaff-42b4-9b1f-1fc095811d2b" width="15"> [Linkedin] https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge(https://www.linkedin.com/in/graf-melikov-a0192927b/) 
 
