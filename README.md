@@ -12,7 +12,10 @@
     <img src="https://img.shields.io/badge/Mail-rainbow?style=for-the-badge&logo=google&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=MelikovGraf&style=flat-square&color=blue" alt=""/>
+<div id="counter view" align="center">
+  <img src="https://komarev.com/ghpvc/?username=MelikovGraf&style=flat-square&color=blue" alt=""/>
+</div>
+
 
 ### Hi there. My name is Graf 👋
 
