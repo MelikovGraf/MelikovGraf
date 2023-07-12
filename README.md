@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 #### My Contacts:
+![загруженное (1)]()
 
-###### [Telegram](https://t.me/melikovgraf) <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/69a17de5-e637-4433-ab06-17ed76435305" width="50">
+###### [Telegram](https://t.me/melikovgraf) <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/1429592c-d6e4-44fd-983c-877562542b6b" width="50">
 ###### [Linkedin](https://www.linkedin.com/in/graf-melikov-a0192927b/) 
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
