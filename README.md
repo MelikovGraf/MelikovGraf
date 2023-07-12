@@ -67,4 +67,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelikovGraf&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikovGraf)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Certificates:
