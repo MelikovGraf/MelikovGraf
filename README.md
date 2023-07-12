@@ -35,7 +35,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 - :seedling: So far studied Terminal Linux, Git, SQL, Postman, DevTools, Android mobile testing, IOS mobile testing.
 
-- :zap: In my free time, I gaming footbal
+- :zap: In my free time, I playing footbal
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/graf-melikov-a0192927b)
 
