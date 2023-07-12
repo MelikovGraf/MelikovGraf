@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/BN7WEcQDotRcSjYCAY/giphy.gif" width="100"/>
+</div>
+
+### Hi there. My name is Graf 👋
 
 #### My Contacts:
 
@@ -20,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Certificates:
