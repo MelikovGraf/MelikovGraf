@@ -29,7 +29,17 @@
 
 
 ### :man_technologist: About Me :
-I am a QA Enginerr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+:telescope: I study at Vadim's Kendzov online-school
+
+- :seedling: So far studied Terminal Linux, Git, SQL, Postman, DevTools, Android mobile testing, IOS mobile testing.
+
+- :zap: In my free time, I gaming footbal
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/graf-melikov-a0192927b)](Linkedin)
+
+
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
