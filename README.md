@@ -2,7 +2,7 @@
 
 #### My Contacts:
 
-[Telegram](https://t.me/melikovgraf) <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa" width="200">
+[Telegram](https://t.me/melikovgraf) <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa" width="100">
 [Linkedin](https://www.linkedin.com/in/graf-melikov-a0192927b/) 
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
