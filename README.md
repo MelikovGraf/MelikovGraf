@@ -3,7 +3,7 @@
 #### My Contacts:
 
 
-<img src="[http://....jpg](https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa=100x)" width="200" height="200" />
+<img src="![alt image](https://github.com/MelikovGraf/MelikovGraf/assets/98654937/f0eb03dc-afd7-42ee-b645-474af8b692fa=100x)" width="200" height="200" />
 
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
