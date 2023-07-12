@@ -2,8 +2,7 @@
 
 #### My Contacts:
 
-[Telegram]([https://mysite.ru "Ваш сайт"](https://t.me/melikovgraf))
-
+[Telegram](https://t.me/melikovgraf)
 <!--
 **MelikovGraf/MelikovGraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
