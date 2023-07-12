@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 #### My Contacts:
-![загруженное]()
 
 ###### [Telegram](https://t.me/melikovgraf) <img src="(https://github.com/MelikovGraf/MelikovGraf/assets/98654937/69a17de5-e637-4433-ab06-17ed76435305)" width="50">
 ###### [Linkedin](https://www.linkedin.com/in/graf-melikov-a0192927b/) 
