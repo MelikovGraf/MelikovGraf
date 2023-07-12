@@ -2,7 +2,7 @@
 
 #### My Contacts:
 
-[Telegram](https://t.me/melikovgraf) <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/1429592c-d6e4-44fd-983c-877562542b6b" width="25">
+[Telegram](https://t.me/melikovgraf)   <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/1429592c-d6e4-44fd-983c-877562542b6b" width="18">
 
 [Linkedin](https://www.linkedin.com/in/graf-melikov-a0192927b/) 
 <!--
