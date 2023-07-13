@@ -68,5 +68,5 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 
 ### 🥇 Certificates:
 <div align="left">
-  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="300" height="150"/>
+  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="300" height="200"/>
 </div>
