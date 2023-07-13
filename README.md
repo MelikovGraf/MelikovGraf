@@ -67,6 +67,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikovGraf)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🥇 Certificates:
-<div align="center">
-  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="600" height="300"/>
+<div align="left">
+  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="400" height="300"/>
 </div>
