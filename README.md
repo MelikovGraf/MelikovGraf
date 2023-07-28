@@ -21,6 +21,7 @@
   Hi there. My name is Graf
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 </div>
  
 <div align="center">
@@ -68,5 +69,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <div align="left">
   <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="300" height="200"/>
  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/dd01cded-acb1-47b2-b61d-29dce97a1989" width="300" height="200"/>
+<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/41a05a72-4286-4ddb-bcbc-3bea7f99ed2f" width="300" height="200"/>
 </div>
 
