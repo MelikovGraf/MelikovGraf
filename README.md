@@ -71,5 +71,6 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/dd01cded-acb1-47b2-b61d-29dce97a1989" width="300" height="200"/>
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/41a05a72-4286-4ddb-bcbc-3bea7f99ed2f" width="300" height="200"/>
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/bb0d5085-3aec-4cba-8975-a3737d19e1fc" width="300" height="200"/>
+  <img src="https://github.com/MelikovGraf/MelikovGraf/files/12329302/stepik-certificate-120679-2144402.pdf" width="300" height="200"/>
 </div>
 
