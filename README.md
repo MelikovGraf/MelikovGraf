@@ -73,3 +73,4 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/bb0d5085-3aec-4cba-8975-a3737d19e1fc" width="300" height="200"/>
   <img src="https://drive.google.com/file/d/1KawSB6c8mZo0D6FbHulQXKwdqTa_035R/view?usp=sharing" width="300" height="200"/>
 </div>
+[stepik-certificate-120679-2144402.pdf](https://github.com/MelikovGraf/MelikovGraf/files/12329312/stepik-certificate-120679-2144402.pdf)
