@@ -54,10 +54,12 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" **alt="Jira" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Terminal Linux" **alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"  title="Chrome Devtools" alt="Chrome Devtools" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"  title="Chrome Devtools" alt="Chrome Devtools" width="40" height="40"/>;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Terminal Linux" **alt="linux" width="40" height="40"/>
    </div>
 
 ---
+
 
 ### :fire: My Stats :
 
@@ -70,5 +72,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
   <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/fdd9d63e-2df1-4779-bfcb-649f070b14dd" width="300" height="200"/>
  <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/dd01cded-acb1-47b2-b61d-29dce97a1989" width="300" height="200"/>
 <img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/41a05a72-4286-4ddb-bcbc-3bea7f99ed2f" width="300" height="200"/>
-<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/bb0d5085-3aec-4cba-8975-a3737d19e1fc" width="300" height="200"/>
+<img src="https://github.com/MelikovGraf/MelikovGraf/assets/98654937/c766df4a-da4e-492a-9baa-e8ed44396e17" width="300" height="200"/>
 </div>
+
+
